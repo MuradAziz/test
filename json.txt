@@ -1,0 +1,32 @@
+{
+"employees":[
+    	{"yemek_id":1, 
+ 	"yemek_adi":"Doe",
+    	"yemek_lebagli":"Anna", 
+	"yemek_tur":"Smith",
+   	 "yemek_bisme":"Peter",
+ 	"yemek_vaxti":"Jones"
+},
+{"yemek_id":2, 
+ 	"yemek_adi":"Doe",
+    	"yemek_lebagli":"Anna", 
+	"yemek_tur":"Smith",
+   	 "yemek_bisme":"Peter",
+ 	"yemek_vaxti":"Jones"
+},
+{"yemek_id":2, 
+ 	"yemek_adi":"Doe",
+    	"yemek_lebagli":"Anna", 
+	"yemek_tur":"Smith",
+   	 "yemek_bisme":"Peter",
+ 	"yemek_vaxti":"Jones"
+},
+{"yemek_id":4, 
+ 	"yemek_adi":"Doe",
+    	"yemek_lebagli":"Anna", 
+	"yemek_tur":"Smith",
+   	 "yemek_bisme":"Peter",
+ 	"yemek_vaxti":"Jones"
+}
+]
+}
